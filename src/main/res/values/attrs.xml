@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="ChooseText">
+    <attr name="drawable_click_left" format="reference" />
+    <attr name="drawable_click_top" format="reference" />
+    <attr name="drawable_click_right" format="reference" />
+    <attr name="drawable_click_bottom" format="reference" />
+  </declare-styleable>
+
+</resources>

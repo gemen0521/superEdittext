@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Myself.iml" filepath="$PROJECT_DIR$/../Myself.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chooseeditview.iml" filepath="$PROJECT_DIR$/chooseeditview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../glidelibrary/glidelibrary.iml" filepath="$PROJECT_DIR$/../glidelibrary/glidelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../utilcode/utilcode.iml" filepath="$PROJECT_DIR$/../utilcode/utilcode.iml" />
+    </modules>
+  </component>
+</project>
